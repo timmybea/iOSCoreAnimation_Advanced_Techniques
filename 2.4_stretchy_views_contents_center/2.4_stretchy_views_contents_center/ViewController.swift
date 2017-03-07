@@ -32,9 +32,6 @@ class ViewController: UIViewController {
             addStretchyImage(image, withContentsCenter: CGRect(x: 0.25, y: 0.25, width: 0.5, height: 0.5), toView: buttonWide)
             addStretchyImage(image, withContentsCenter: CGRect(x: 0.25, y: 0.25, width: 0.5, height: 0.5), toView: buttonTall)
         }
-        
-        
-        
     }
 
     private func setupViews() {
