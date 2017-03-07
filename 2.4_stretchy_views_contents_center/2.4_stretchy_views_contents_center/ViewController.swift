@@ -5,6 +5,7 @@
 //  Created by Tim Beals on 2017-03-06.
 //  Copyright © 2017 Tim Beals. All rights reserved.
 //
+//Note that you can also do this in storyboard by clicking on the view and the accessing the 'stretching' values.
 
 import UIKit
 
